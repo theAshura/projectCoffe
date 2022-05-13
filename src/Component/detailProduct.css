@@ -1,0 +1,45 @@
+.Detail-container{
+    width: 1200px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.Detail-main{
+    display: flex;
+}
+
+.Detail-main-ul{
+list-style-type: none;
+}
+
+.Detail-main-img{
+width: 570px;
+height: 570px;
+}
+
+.Detail-main-ul h1{
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 4px
+}
+
+.Detail-main-ul-price{
+    line-height: 0.75;
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 28px;
+    color: #E57905;
+    font-weight: 700;
+}
+
+.Detail-main-ul-button{
+    background: #E57905;
+    border-radius: 8px;
+    padding: 12px 0;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    width: 570px;
+    height: 45px;
+    text-align: center;
+    font-size: 17px;
+}

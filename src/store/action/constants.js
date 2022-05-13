@@ -1,0 +1,16 @@
+export const SET_PRODUCT = "set_product";
+export const ADD_PRODUCT = "add_product";
+export const DELETE_PRODUCT = "delete_product";
+export const UPDATE_PRODUCT = "update_product";
+export const GET_PRODUCT = "get_product";
+export const GET_USER = "get_user";
+export const SET_USER = "set_user";
+export const ADD_USER = "add_user";
+export const DELETE_USER = "delete_user";
+export const UPDATE_USER = "update_user";
+export const REGISTER_START = "register_start"
+export const REGISTER_SUCCESS = "register_success"
+export const REGISTER_FAIL = "register_fail"
+export const LOGIN_START = "login_start"
+export const LOGIN_SUCCESS = "login_success"
+export const LOGIN_FAIL = "login_fail"

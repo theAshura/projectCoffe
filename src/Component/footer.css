@@ -1,0 +1,21 @@
+.footer{
+    background: #000000D9;
+    width: 100%;
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+}
+.footer-main{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin : 0 auto
+}
+
+.footer-main__product{
+    
+}
+
+.footer-main-ul{
+    list-style-type: none;
+}
